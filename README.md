@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-product-mobile.jpg)
+![](./design/mobile-design.jpg)
 
 
 ### Links
